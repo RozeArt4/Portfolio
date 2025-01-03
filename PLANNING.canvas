@@ -1,0 +1,15 @@
+{
+	"nodes":[
+		{"id":"4cf77fd44c73a14d","type":"text","text":"Rozart.com","x":-540,"y":-328,"width":250,"height":60},
+		{"id":"bbbd51b5eaecef2a","type":"text","text":"Datpack?","x":-540,"y":60,"width":340,"height":198},
+		{"id":"3366d29c15c4df89","type":"text","text":"Ravian?","x":-540,"y":-160,"width":340,"height":198},
+		{"id":"030f3c0e894d0b44","type":"text","text":"Printer arm","x":-182,"y":-160,"width":340,"height":198},
+		{"id":"24c0ab0510e33937","type":"text","text":"Azalea Dress?","x":-182,"y":60,"width":340,"height":198},
+		{"id":"c4a94f590f1aa958","x":-364,"y":300,"width":328,"height":200,"type":"text","text":"EMBEDDED UNITY GAME picture link\n-Kestrel Space Ship-\n\nPossibly either an embeded unity game, pulled from vrchat when finished.\nOr a set of fixed camera positions, with some level of dynamic stuff, showing off pretty lighting of my models inside the ship.\n-Cinnemachine (unity fixe camera thingy)"},
+		{"id":"d96138ed58741f1c","x":-268,"y":-328,"width":108,"height":60,"type":"text","text":"Home"},
+		{"id":"8c51ccc3c2a5a58e","type":"text","text":"About","x":-144,"y":-328,"width":108,"height":60},
+		{"id":"ab5cb0d291db01dc","type":"text","text":"Porfolio\n","x":-20,"y":-328,"width":120,"height":60},
+		{"id":"83ebc609eb2a168f","type":"text","text":"Resume\n","x":118,"y":-328,"width":120,"height":60}
+	],
+	"edges":[]
+}

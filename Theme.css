@@ -1,0 +1,35 @@
+a {
+    color: #8cb0ad;
+}
+a:hover {
+    color: #4d0099;
+}
+
+
+.bg-primary {
+	background-color: #8cb0ad !important; 
+}
+.btn-primary {
+    background-color: #8525e6!important;
+    border-color: #8525e6;
+}
+.btn-primary:hover {
+    background-color: #8cb0ad !important;
+    border-color: #8525e6;
+}
+
+
+body {
+    background-color: #e5d6c3;
+    background-image: url("../Resources/Portfolio Half Tone.png");
+    background-repeat: no-repeat;
+}
+
+a {
+    block-size: 60px;
+    writing-mode: horizontal-tb;
+}
+
+a {
+    font: bold 2rem "Cambria", sans-serif;
+}
